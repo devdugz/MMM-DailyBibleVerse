@@ -1,0 +1,29 @@
+{
+  "name": "MMM-DailyBibleVerse",
+  "version": "1.0.0",
+  "description": "A MagicMirror² module that displays a daily Bible verse",
+  "main": "MMM-DailyBibleVerse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magicmirror",
+    "bible",
+    "verse",
+    "daily",
+    "smart mirror"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdugz/MMM-DailyBibleVerse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devdugz/MMM-DailyBibleVerse/issues"
+  },
+  "homepage": "https://github.com/devdugz/MMM-DailyBibleVerse#readme"
+}
