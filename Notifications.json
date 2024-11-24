@@ -1,0 +1,6 @@
+{
+    "notifications": {
+        "FETCH_BIBLE_VERSE": "FETCH_BIBLE_VERSE",
+        "BIBLE_VERSE_RECEIVED": "BIBLE_VERSE_RECEIVED"
+    }
+}
