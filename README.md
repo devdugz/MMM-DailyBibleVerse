@@ -2,7 +2,7 @@
 
 MMM-DailyBibleVerse is a Magic Mirror widget that displays a daily Bible verse.
 
-![MagicMirror² Module Screenshot](assets/MMM-DailyBibleVerse_Pic.png)
+![MagicMirror² Module Screenshot](assets/MMM-DailyBibleVerse_Pic.jpg)
 
 ## Installation
 
